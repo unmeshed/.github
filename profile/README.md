@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the unmeshed!
+Welcome to unmeshed!
 
 <!--
 
