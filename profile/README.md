@@ -1,4 +1,7 @@
-# Welcome to Unmeshed
+
+![Logo with BLACK text](https://github.com/user-attachments/assets/ceb0db52-76dd-470b-af8d-f0cf95e178bc)
+
+# Welcome to Unmeshed - A fast low latency orchestration platform
 
 Unmeshed is revolutionizing the way developers orchestrate and automate workflows. Our cutting-edge platform allows you to design, execute, and manage workflows with unparalleled flexibility and scalability. Whether you're working with real-time APIs or asynchronous backend systems, Unmeshed ensures high performance and developer-first solutions.
 
