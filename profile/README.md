@@ -1,5 +1,5 @@
 
-![Logo with BLACK text](https://github.com/user-attachments/assets/ceb0db52-76dd-470b-af8d-f0cf95e178bc)
+![Logo with WHITE text](https://github.com/user-attachments/assets/cd04f64d-8be0-47bd-bc98-c67d282c18a7)
 
 # Welcome to Unmeshed - A fast low latency orchestration platform
 
